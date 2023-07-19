@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @femt28
 - im just a uni student wasting too much time when i should be *studying*
 - <img src="https://tryhackme-badges.s3.amazonaws.com/FatherGazarus28.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/46727"></script>
+
 
 
 <!---
